@@ -4,7 +4,7 @@
 I transformed 9,000+ transactions into a dynamic business intelligence tool, using ETL , Calculated Fields, and Pivot Engines to reveal that the Northeast leads in Operating Efficiency despite the West’s volume.
 
 
-## 📌 Strategic Intent: Why I Undertook This Project
+## 📌 Why I Undertook This Project
 
 In an increasingly volatile retail landscape, high-level aggregated data often masks underlying inefficiencies. I initiated this project to demonstrate how **Granular Data Analytics** can be used to optimize a multi-million dollar retail operation. My goal was to move beyond simply reporting "what happened" and instead answer **"why it happened"** and **"how to improve it."** I chose the Adidas US dataset specifically to tackle the complexity of multi-channel distribution (In-store vs. Online vs. Outlet) and to practice bridging the gap between raw transactional data and executive-level strategy.
 
