@@ -18,7 +18,7 @@ In an increasingly volatile retail landscape, high-level aggregated data often m
 
 ## 📈 The Analytical Framework
 
-### I. Data Architecture & Sanitization
+## I. Data Architecture & Sanitization
 
 The foundation of this project was a rigorous cleaning phase. Real-world data is rarely "clean," so I implemented a strict protocol to ensure a "single source of truth":
 
@@ -26,14 +26,14 @@ The foundation of this project was a rigorous cleaning phase. Real-world data is
 * **Time-Series Optimization:** Converted string-based timestamps into a uniform **Date Hierarchy**, enabling quarterly and yearly trend analysis to capture seasonality.
 * **Profitability Logic:** I engineered a custom **Operating Margin** calculation. This was a critical step, as it shifted the focus from "vanity metrics" like gross revenue to actual bottom-line efficiency.
 
-### II. Multidimensional Analysis
+## II. Multidimensional Analysis
 
 Using a high-performance **Pivot Engine**, I segmented over 9,000 rows of data to identify the primary drivers of growth:
 
 * **Product Velocity:** Identified **Men’s Street Footwear** and **Women’s Apparel** as the core revenue anchors.
 * **Channel Distribution:** Analyzed the interplay between **In-store, Online, and Outlet** methods, revealing that while Online has the highest growth rate, Outlets remain the vital engine for inventory volume.
 
-### III. Interactive Business Intelligence (Data Viz)
+## III. Interactive Business Intelligence (Data Viz)
 
 I designed a professional-grade dashboard acting as a tactical decision-making tool:
 
